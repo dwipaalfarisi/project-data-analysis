@@ -14,6 +14,7 @@ Note:
 The map for crime type and location is embedded in the chicago_crime.ipynb
 It may not show up in GitHub or Jupyter Notebook.
 Please use VS Code.
+You can open it thru: https://vscode.dev/
 
 Please provide your critics and suggestion! 
 That would help me a lot.
